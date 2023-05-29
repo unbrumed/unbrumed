@@ -1,6 +1,6 @@
-- [cv. glsl sdf, shaders](https://tynroar.netlify.app/)
-- [maze. c, raylib](https://tynroar-maze.netlify.app/)
-- [spa. pug, less, js](https://tynroar-brume2303.netlify.app/)
+- [cv.](https://tynroar.netlify.app/) glsl sdf, shaders
+- [maze.](https://tynroar-maze.netlify.app/) c, raylib
+- [spa.](https://tynroar-brume2303.netlify.app/) pug, less, js
 
 
 ---
